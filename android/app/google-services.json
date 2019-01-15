@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1078068933478",
+    "firebase_url": "https://sayhello-bed85.firebaseio.com",
+    "project_id": "sayhello-bed85",
+    "storage_bucket": "sayhello-bed85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078068933478:android:668ae3e8dfce9ad5",
+        "android_client_info": {
+          "package_name": "dev.com.sayhello14"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078068933478-3dp30lk7h4vtqvf5chvtjjah2uuinjct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.com.sayhello14",
+            "certificate_hash": "49c24b3fe23588c938b2a99a42b3da084610bc1a"
+          }
+        },
+        {
+          "client_id": "1078068933478-u5mg05f4vp8ogq2rn3vcpd21vlr44kp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC14zQesN_EuqSYxSC7Aa8jWk3ckFkfkjU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078068933478-u5mg05f4vp8ogq2rn3vcpd21vlr44kp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
